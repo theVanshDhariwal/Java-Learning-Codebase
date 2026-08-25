@@ -1,0 +1,3 @@
+//  Singleton Pattern in TypeScript
+
+Singleton pattern allows only one instance of a class to be created and provides a global point of access to that instance. In TypeScript, you can implement the Singleton pattern using a class with a private constructor and a static method to get the instance. Here's an example:
